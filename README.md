@@ -5,6 +5,16 @@ It was made as a homework project for "Error-Correcting Codes and Cryptography" 
 
 **This package was made as an exercise. It shouldn't be used anywhere to secure data.**
 
+## Updated package installation
+
+Python version: 3.11.11
+
+```
+pip install sympy==1.11.1
+pip install numpy==1.23.0
+pip install docopt==0.6.2
+```
+
 ## How to run?
 
 ### Install Python 3.x
